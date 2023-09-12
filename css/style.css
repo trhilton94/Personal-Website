@@ -1,10 +1,10 @@
 @font-face {
     font-family: "creation";
-    src: url("/fonts/creattion-demo/Creattion\ Demo.otf");
+    src: url("./fonts/creattion-demo/Creattion\ Demo.otf");
 }
 @font-face {
     font-family: "barlow";
-    src: url("/fonts/Barlow/Barlow-Light.ttf");
+    src: url("./fonts/Barlow/Barlow-Light.ttf");
 }
 body {
     margin: 0px;
