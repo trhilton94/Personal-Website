@@ -1,10 +1,10 @@
-@import url(https://fonts.googleapis.com/css2?family=cedarville+cursive);
-@import url(https://fonts.googleapis.com/css2?family=barlow);
+@import url(https://fonts.googleapis.com/css2?family=Cedarville+Cursive);
+@import url(https://fonts.googleapis.com/css2?family=Barlow);
 
 body {
     margin: 0px;
     text-align: center;
-    font-family: "barlow";
+    font-family: "Barlow";
 }
 nav {
     display: flex;
@@ -46,7 +46,7 @@ nav {
 #splash_name {
     position: absolute;
     padding-bottom: 19vw;
-    font-family: "creation";
+    font-family: "Cedarville Cursive";
     font-weight: lighter;
     font-size: 8vw;
     color: white;
